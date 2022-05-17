@@ -1,0 +1,28 @@
+{
+  "name": "my_finances_server",
+  "version": "1.0.0",
+  "description": "Challenge FullStack Alkemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FermenF/CHALLENGE_FULL_STACK.git"
+  },
+  "author": "Fernando Fernandez Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FermenF/CHALLENGE_FULL_STACK/issues"
+  },
+  "homepage": "https://github.com/FermenF/CHALLENGE_FULL_STACK#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
